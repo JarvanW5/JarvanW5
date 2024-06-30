@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @JarvanW
+- 👀 I’m interested in Java and Python programming. My research topic during my master's degree is the research on smart contract vulnerability detection methods based on generative models.
+- 🌱 In Java, I’m currently learning Spring Boot, Spring Cloud Alibaba, Mybatis-Plus, Redis, Kafka, Spring Cloud Alibaba Nacos, Spring Cloud Alibaba Sentinel, XXL-Job, JWT, MinIO, Sharding-JDBC Canal, Swagger.
+- 🌱 In my master's research project, I am currently studying vulnerability detection, smart contracts, static detection, diffusion models, deep learning and I am very interested in large language models.
+- 💞️ I’m looking to collaborate on Java web project or deep learning and LLM.
+- 📫 How to reach me: wangjiawen2000@163.com or jarvanw1111@gmail.com
+- 😄 Pronouns: Life is all you need
+- ⚡ Fun fact: Badminton, Table tennis, Swimming, Road cycling, Running
